@@ -3,4 +3,6 @@ export enum Type {
     Bar
 }
 
-export default class Action {}
+export class Action {}
+
+export default Action
