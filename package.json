@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "build": "unbuild",
+    "test": "node test.js"
+  },
   "dependencies": {
     "typescript": "^5.3.3",
     "unbuild": "^2.0.0"
